@@ -32,4 +32,4 @@ g++ main.cpp -o program.exe
 
 ## Author
 
-Emmanuel
+Owusu Emmanuel

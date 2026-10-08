@@ -39,4 +39,4 @@ program. The file is created automatically and is excluded from the repo.
 
 ## Author
 
-Emmanuel
+Owusu Emmanuel

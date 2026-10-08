@@ -47,4 +47,4 @@ and run `./cgpa`).
 
 ## Author
 
-Emmanuel
+Owusu Emmanuel

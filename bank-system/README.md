@@ -48,4 +48,4 @@ On first run you will be asked to create a staff key.
 
 ## Author
 
-Emmanuel
+Owusu Emmanuel
