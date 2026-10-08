@@ -1,0 +1,11 @@
+# Runtime data created by the programs (user data and hashes)
+customers.txt
+accounts.txt
+transactions.txt
+staff.key
+database.txt
+
+# Build output
+*.exe
+*.o
+*.out
